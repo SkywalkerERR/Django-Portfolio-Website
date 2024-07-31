@@ -12,6 +12,9 @@
     - [HTML/CSS](#html)
     - [JavaScript](#JS)
     - [Python](#PY)
+- [Установка](#install)
+- [Использование](#use)
+- [Поддержка](#sup)
 
 <a name="about"></a>
 
@@ -108,6 +111,7 @@
 
   > Пример работы с пагинацией
 
+<a name="install"></a>
 
 ## <span style="color:#696969">Установка</span>
 
@@ -120,10 +124,13 @@
 ```bash
 pip install -r requirements.txt
 ```
+<a name="use"></a>
 
 ## <span style="color:#696969">Использование</span>
 
 Данный проект был создан в целях моего личного обучения, поэтому не думаю что его кто-либо будет использовать :confused:
+
+<a name="sup"></a>
 
 ## <span style="color:#FFD700">Сообщения об ошибках и вопросы</span>
 
