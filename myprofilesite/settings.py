@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-nv*3$3&m0npcj#9q4^mws+3b&_(#7rn3@5oh6ns-v^17dd+sj_'
+SECRET_KEY = 'yoursecretkey'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -145,8 +145,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'jessepinkman646@gmail.com'
-EMAIL_HOST_PASSWORD = 'jtldakenfsilbtky'
+EMAIL_HOST_USER = 'youremail@gmail.com'
+EMAIL_HOST_PASSWORD = 'yourapppassword'
 
 CKEDITOR_UPLOAD_PATH = 'uploads/'
 
